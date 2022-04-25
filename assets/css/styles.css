@@ -88,7 +88,7 @@ body.dark-theme {
 }
 .change-theme:hover {
   color: var(--first-color);
-  transition: 1s;
+  transition: 5s;
 }
 /*==================== BASE ====================*/
 * {
