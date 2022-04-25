@@ -6,7 +6,7 @@
   --header-height: 3rem;
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 50;
+  --hue-color: 0;
   /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -18,7 +18,7 @@
   --text-color-light: hsl(var(--hue-color), 8%, 65%);
   --input-color: hsl(var(--hue-color), 70%, 96%);
   --body-color: hsl(var(--hue-color), 60%, 99%);
-  --container-color: #000;
+  --container-color: #FFF;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 60%, 80%);
   /*========== Font and typography ==========*/
