@@ -168,7 +168,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: var(--body-color);
-  transition: 0.5s;
+  transition: 1s;
 }
 
 /*==================== NAV ====================*/
